@@ -1,0 +1,52 @@
+.mainConfig {
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 10vh;
+}
+
+
+
+h1{
+    box-shadow: 10px 0 5px black;
+    margin-bottom: 8vh;
+}
+
+p{
+    font-size: 18px;
+    margin-bottom: 8vh;
+    margin-left: 5vh;
+    margin-right: 5vh;
+}
+
+.find img{
+    height: 32px;
+    box-shadow: 0 0 5px black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+.find{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8vh;
+    margin-left: 5vh;
+    margin-right: 5vh;
+}
+
+.follow{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 16vh;
+    margin-left: 5vh;
+    margin-right: 5vh;
+}
+
+.follow img{
+    height: 32px;
+    box-shadow: 0 0 5px black;
+    border-radius: 10px;
+    padding: 10px;
+}

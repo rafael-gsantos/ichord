@@ -1,0 +1,24 @@
+.mainNavbar {
+    color: #414141;
+    background: #eeeeee;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 8px;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 2vh;
+    box-shadow: 0px 1px 8px #414141;
+}
+
+.mainNavbar span{
+    color: #414141;
+}
+
+.mainNavbar span:focus {
+    color: #ff0000;
+}

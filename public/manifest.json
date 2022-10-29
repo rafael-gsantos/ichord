@@ -1,0 +1,52 @@
+{
+  "short_name": "IChord",
+  "name": "IChord",
+  "description": "The best way to learn guitar",
+  "icons": [
+    {
+      "src": "./Icons/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "./Icons/Icon128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./Icons/Icon144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "./Icons/Icon152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "./Icons/Icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./Icons/Icon192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./Icons/Icon256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./Icons/Icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "Standalone",
+  "theme_color": "#EEEEEE",
+  "background_color": "#EEEEEE"
+}

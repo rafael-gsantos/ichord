@@ -1,0 +1,18 @@
+.mainHome{
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 10vh;
+    text-decoration: none;
+}
+
+.mainHome img{
+    padding-top: 1vh;
+    height: 20vh;
+}
+
+h2{
+    margin: 0 100px 0 100px;
+    color: black;
+}

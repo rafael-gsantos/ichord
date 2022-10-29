@@ -1,0 +1,66 @@
+.mainAulas {
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 10vh;
+}
+
+.back{
+    position: fixed;
+    margin: 10px 0 0 10px;
+    top: 0;
+    left: 0;
+    color: gray;
+    font-size: xx-large;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.mainAulas img{
+    padding-top: 1vh;
+    height: 20vh;
+}
+
+.content {
+    margin-top: 1vh;
+    /* box-shadow: 0 0 10px black; */
+}
+
+.collapsible{
+    margin-bottom: 2vh;
+}
+
+.mainAulas h1 {
+    box-shadow: 0 0 5px black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.mainAulas h5{
+    margin-bottom: 1vh;
+}
+
+.collapsible h2{
+    box-shadow: 0 0 5px black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.mainAulas p{
+    color: #00000090;
+}
+
+.linkItem{
+    color: black;
+    margin: 0 100px 0 100px;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3vh;
+}
