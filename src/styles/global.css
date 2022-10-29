@@ -1,0 +1,16 @@
+:root{
+  --Blue-300: #05050A;
+  --Blue-400: #0F0F14;
+  --Blue-500: #16141E;
+  --Blue-600: #24387B;
+  --Gray-300: #CAD7FF;
+  --Gray-400: #66739B;
+}
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+body{
+  background-color: var(--Blue-400);
+}

@@ -1,0 +1,7 @@
+.HeaderMain{
+    background-color: var(--Blue-500);
+    padding: 9px 0 9px 8px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}

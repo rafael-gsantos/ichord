@@ -1,0 +1,19 @@
+.MoreMain {
+    padding: 90px 0 62px 0;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    background: var(--Blue-400);
+}
+
+.MoreLinks{
+    display: flex;
+    justify-content: space-around;
+    font-size: 32px;
+}
+
+.MoreLinks a{
+    color: var(--Gray-300);
+    margin-bottom: 48px;
+}

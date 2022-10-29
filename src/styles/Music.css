@@ -1,0 +1,10 @@
+.MusicMain {
+    padding: 90px 0 142px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    background: var(--Blue-400);
+    color: var(--Gray-400);
+    height: 100vh;
+}
