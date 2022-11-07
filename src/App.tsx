@@ -4,6 +4,7 @@ import { Aula1 } from './pages/aulas/Aula1';
 import { Intro1 } from './pages/aulas/Intro1';
 import { Quiz1 } from './pages/aulas/Quiz1';
 import { Video1 } from './pages/aulas/Video1';
+import Dog from './pages/Dog';
 import { Home } from './pages/Home';
 import { Lessons } from './pages/Lessons';
 import { More } from './pages/More';
@@ -21,6 +22,7 @@ export function App() {
         <Route path='/aula1/intro' element={<Intro1 />} />
         <Route path='/aula1/videos' element={<Video1 />} />
         <Route path='/aula1/quiz' element={<Quiz1 />} />
+        <Route path='/Dog' element={<Dog />} />
       </Routes>
     </Router>
   );

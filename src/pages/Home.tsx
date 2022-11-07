@@ -6,6 +6,7 @@ import { Header } from "../components/Header"
 import '../styles/Home.css'
 
 export function Home(){
+
     return(
         <div>
             <Header />
